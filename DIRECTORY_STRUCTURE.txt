@@ -1,0 +1,53 @@
+Innovex_Website_Project/
+│
+├── 📄 index.html                      [Home Page - 14 KB]
+│
+├── 📱 MOBILE & COMPUTING
+│   ├── smartphones.html               [Mobile Technology - 16 KB]
+│   ├── laptops.html                   [Laptop Computers - 21 KB]
+│   ├── tablets.html                   [Tablet Devices - 12 KB]
+│   └── desktops.html                  [Desktop Systems - 12 KB]
+│
+├── 🏠 SMART HOME & IOT
+│   ├── smart-home.html                [Home Automation - 22 KB]
+│   ├── iot-devices.html               [IoT Ecosystems - 17 KB]
+│   └── network-equipment.html         [Networking - 17 KB]
+│
+├── ⌚ WEARABLES & AUDIO
+│   ├── wearables.html                 [Wearable Tech - 18 KB]
+│   └── audio-technology.html          [Audio Systems - 12 KB]
+│
+├── 📷 IMAGING & ENTERTAINMENT
+│   ├── cameras.html                   [Photography - 12 KB]
+│   ├── gaming.html                    [Gaming Tech - 12 KB]
+│   └── vr-ar.html                     [VR/AR - 17 KB]
+│
+├── 🤖 ROBOTICS & AUTOMATION
+│   ├── robotics.html                  [Robotics - 17 KB]
+│   ├── drones.html                    [Aerial Tech - 12 KB]
+│   └── industrial-tech.html           [Industrial - 17 KB]
+│
+├── ⚡ ADVANCED TECH
+│   ├── microchips.html                [Semiconductors - 17 KB]
+│   ├── 3d-printing.html               [3D Printing - 17 KB]
+│   ├── electric-vehicles.html         [EV Technology - 17 KB]
+│   ├── energy-tech.html               [Energy Tech - 17 KB]
+│   └── security-technology.html       [Security - 17 KB]
+│
+├── 🖱️ PERIPHERALS
+│   └── peripherals.html               [Accessories - 12 KB]
+│
+├── 📁 ASSETS
+│   ├── css/
+│   │   └── styles.css                 [13 KB - Complete Styling]
+│   ├── js/
+│   │   └── script.js                  [11 KB - Interactivity]
+│   └── images/
+│       └── [Folder for custom images]
+│
+└── 📚 DOCUMENTATION
+    ├── README.md                      [5.5 KB - Full Documentation]
+    ├── PROJECT_SUMMARY.txt            [3 KB - Completion Report]
+    └── DIRECTORY_STRUCTURE.txt        [This File]
+
+TOTAL: 22 HTML Pages + 2 Assets + 3 Docs = 27 Files
